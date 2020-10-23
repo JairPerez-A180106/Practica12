@@ -1,0 +1,75 @@
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\PRACTICA 11.exe
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\PRACTICA 11.deps.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\PRACTICA 11.runtimeconfig.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\PRACTICA 11.runtimeconfig.dev.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\PRACTICA 11.dll
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\PRACTICA 11.pdb
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\PRACTICA 11.Views.dll
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\bin\Debug\netcoreapp3.1\PRACTICA 11.Views.pdb
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.csprojAssemblyReference.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.AssemblyInfoInputs.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.AssemblyInfo.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.csproj.CoreCompileInputs.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorAssemblyInfo.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorAssemblyInfo.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.TagHelpers.input.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.TagHelpers.output.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorCoreGenerate.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorTargetAssemblyInfo.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorTargetAssemblyInfo.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.Views.pdb
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\staticwebassets\PRACTICA 11.StaticWebAssets.Manifest.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\staticwebassets\PRACTICA 11.StaticWebAssets.xml
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.dll
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.pdb
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.genruntimeconfig.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 11\obj\Debug\netcoreapp3.1\PRACTICA 11.csproj.CopyComplete
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\PRACTICA 11.exe
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\PRACTICA 11.deps.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\PRACTICA 11.runtimeconfig.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\PRACTICA 11.runtimeconfig.dev.json
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\PRACTICA 11.dll
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\PRACTICA 11.pdb
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\PRACTICA 11.Views.dll
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\bin\Debug\netcoreapp3.1\PRACTICA 11.Views.pdb
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.csprojAssemblyReference.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.AssemblyInfoInputs.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.AssemblyInfo.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.csproj.CoreCompileInputs.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorAssemblyInfo.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorAssemblyInfo.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.TagHelpers.input.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.TagHelpers.output.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorCoreGenerate.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorTargetAssemblyInfo.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.RazorTargetAssemblyInfo.cs
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.Views.pdb
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\staticwebassets\PRACTICA 11.StaticWebAssets.Manifest.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\staticwebassets\PRACTICA 11.StaticWebAssets.xml
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.dll
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.pdb
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.genruntimeconfig.cache
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\PRACTICA 11.csproj.CopyComplete
+C:\Users\Zuki\Documents\UNACH\5to Semestre\Programacion de aplicaciones web\PRACTICA 12\obj\Debug\netcoreapp3.1\Razor\Views\Home\Area.cshtml.g.cs
